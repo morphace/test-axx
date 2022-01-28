@@ -1,0 +1,4 @@
+[submodule "axxelia"]
+	path = axxelia
+	url = git@gitlab.axxelia.com:axxelia-projects-app/axx-non-billable.git
+	branch = master
